@@ -67,7 +67,7 @@ chmod 700 ~/.ssh
 
 ```text
 Host <ip.address.or.domain.name>
- IdentityFile "/c/Users/<user>/.ssh/<pkey>"
+ IdentityFile "C:/Users/<user>/.ssh/<pkey>"
  UserKnownHostsFile /dev/null
  StrictHostKeyChecking no
 ```
